@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pawanktiwari
+- 👋 Hi, I’m Pawan Tiwari
 - 👀 I’m interested in building awesome applications.
-- 🌱 I’m currently learning angular and other UI frameworks.
+- 🌱 I’m working angular and other UI frameworks. along with Spring boot and java
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me...
 You can connect with me @ https://t.me/tricksense
